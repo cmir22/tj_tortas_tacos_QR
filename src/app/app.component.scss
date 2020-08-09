@@ -1,0 +1,87 @@
+.toolbar{
+    background: black;
+
+}
+.menuTittle{
+    background: black;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin-top: -15px;
+}
+
+.callButton{
+  position: absolute; 
+  right: 10px;
+  width: 20px;
+  height: 26px;
+  background-color: white; 
+
+}
+
+.menuItems{
+    margin-top: -10px;
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    background-color: black;
+    
+   
+}
+
+#tacos{
+    background: url("https://firebasestorage.googleapis.com/v0/b/tjtortasytacos.appspot.com/o/Menu%20QR%2FTaco%20Menu.jpg?alt=media&token=cb374dc5-ab17-4072-aa9f-a3e1cbc61d34") no-repeat scroll 0 0 transparent;
+   }
+#burritos{
+    background: url("https://firebasestorage.googleapis.com/v0/b/tjtortasytacos.appspot.com/o/Menu%20QR%2FBurrito%20Menu.jpg?alt=media&token=fb7c0b97-1c94-4ed8-ad2e-f5c920da070b") no-repeat scroll 0 0 transparent;
+}
+#birria{
+    background: url("https://firebasestorage.googleapis.com/v0/b/tjtortasytacos.appspot.com/o/Menu%20QR%2FBirria%20Menu.jpg?alt=media&token=75e853a6-0488-4ddf-aff1-27e6a93191cd") no-repeat scroll 0 0 transparent;
+}
+#quesadillas{
+    background: url("https://firebasestorage.googleapis.com/v0/b/tjtortasytacos.appspot.com/o/Menu%20QR%2FQuesadilla%20Menu.jpg?alt=media&token=15eca21f-ff40-4187-a6a7-108bd0fb797c") no-repeat scroll 0 0 transparent;
+}
+#mulitas{
+    background: url("https://firebasestorage.googleapis.com/v0/b/tjtortasytacos.appspot.com/o/Menu%20QR%2FMulita%20Menu.jpg?alt=media&token=6ce099b2-c6bc-4ca7-811f-9ea1852f4a86") no-repeat scroll 0 0 transparent;
+}
+#vegetarian{
+    background: url("https://firebasestorage.googleapis.com/v0/b/tjtortasytacos.appspot.com/o/Menu%20QR%2FVegetarian%20Menu.jpg?alt=media&token=4dccc6ca-383f-4b41-a907-0c5b5b0f2ab2") no-repeat scroll 0 0 transparent;
+}
+#fries{
+    background: url("https://firebasestorage.googleapis.com/v0/b/tjtortasytacos.appspot.com/o/Menu%20QR%2FFries%20Menu.jpg?alt=media&token=8b210ca1-a3f0-493c-8e3f-86749a435a73") no-repeat scroll 0 0 transparent;
+}
+#drinks{
+    background: url("https://firebasestorage.googleapis.com/v0/b/tjtortasytacos.appspot.com/o/Menu%20QR%2FDrink%20Menu%5D.jpg?alt=media&token=37331299-5bf8-4276-b270-6c6b7c4cca41") no-repeat scroll 0 0 transparent;
+}
+#crepes{
+    background: url("https://firebasestorage.googleapis.com/v0/b/tjtortasytacos.appspot.com/o/Menu%20QR%2FCrepes%20Menu.jpg?alt=media&token=86f20be8-a3df-4ee2-b75e-63ef6c8ef326") no-repeat scroll 0 0 transparent;
+}
+#extras{
+    background: url("https://firebasestorage.googleapis.com/v0/b/tjtortasytacos.appspot.com/o/Menu%20QR%2FExtras%20Menu.jpg?alt=media&token=fff2e91e-1545-4826-8265-451b473a0c72") no-repeat scroll 0 0 transparent;
+}
+.itemDesc{
+    font-size: 10px;
+    margin-top: -15px;
+}
+
+
+
+.item{
+    margin-top: -8px;
+    color: white;
+    background-color: #404040;
+
+    
+    .itemPrice{
+        color: whitesmoke;
+        position: absolute; 
+        right: 15px;
+    }
+}
+
+.pictureTorta{
+    margin-top: -20px;
+}
+
+
+  
